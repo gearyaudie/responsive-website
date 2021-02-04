@@ -19,8 +19,5 @@
     "url": "git+https://github.com/gearyaudie/tutorial_portofoilo.git"
   },
   "author": "geary",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://gearyaudie.github.io/tutorial_portofoilo/issues"
-  }
+  "license": "MIT"
 }
